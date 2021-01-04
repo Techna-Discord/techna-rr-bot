@@ -1,0 +1,14 @@
+{
+    "role1": "<insert rolename here>",
+    "role2": "<insert rolename here>",
+    "role3": "<insert rolename here>",
+
+    "role1emoji": "<paste in emoji here (make sure it is available in your server)",
+    "role2emoji": "<paste in emoji here (make sure it is available in your server)",
+    "role3emoji": "<paste in emoji here (make sure it is available in your server)",
+
+    "embedColor": "#fffffe",
+    "embedTitle": "Role Menu",
+    "embedDescription": "React below to receive roles",
+    "rrchannel": "<put channel ID here"
+}
