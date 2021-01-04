@@ -5,3 +5,5 @@ Reaction Roles is an easily configurable bot for [Discord](https://discord.com) 
 * [🛠️ Getting Setup](docs/setup.md)
 * [📝 Configuring The Bot](docs/config.md)
 * [✨ Reaction Role Commands](docs/rr-commands.md)
+
+Need help? Check out the Techna Discord Server [here!](https://discord.gg/dzFCHUZnDq)
