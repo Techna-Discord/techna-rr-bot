@@ -13,5 +13,6 @@ Configuring the bot is rather easy, via the [rrconfig.json file](./../rrconfig.j
 
 ## Adding Extra Reaction Roles -
 * This bot is designed to send reaction roles in embeds, and gives roles that way. Due to this, the main ``reactrole.js`` file is designed to not be changed. If you wish to add more embeds/reaction roles, simply create a second copy of ``rrconfig.json`` called whatever you wish, copy the contents of the ``reactrole.js``  into a second file called ``<your_file_name_here>.js``, change the command name under line 7 to any name of your choice, and change the rrconfig requirement on line 3 to ``./../<your_file_name_here>.json``. From there, simply fill in the config settings on your second file as necessary, and go from there! Running the command for the second reaction role command will send the embed separately.
+* We are aware that these steps may be hard for some new to coding! If you need assistance, please [join our discord server](https://discord.com/dzFCHUZnDq), and the ddeveloper will assist you!
 
 [➡️ Next Page - Reaction Role Commands](./rr-commands.md)
