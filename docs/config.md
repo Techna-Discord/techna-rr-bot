@@ -1,9 +1,9 @@
 # Reaction Roles - Configuring The Bot
  * [⬅️ Back to home menu](./../README.md)
-Configuring the bot is rather easy, via the [config.json file](./../rrconfig.json). See the steps below to get help regarding that -
+Configuring the bot is rather easy, via the [rrconfig.json file](./../rrconfig.json). See the steps below to get help regarding that -
 
 ## Configuring Rolenames -
-* To configure rolenames, head to the ``config.json`` file. From there, see the top group of settings, role1-role3. Collect your role names from your server that you would like to set as the reaction roles, and replace the text in the quotations with the role names. **Do not use IDs, the bot is not configured to allow those yet.**
+* To configure rolenames, head to the ``rrconfig.json`` file. From there, see the top group of settings, role1-role3. Collect your role names from your server that you would like to set as the reaction roles, and replace the text in the quotations with the role names. **Do not use IDs, the bot is not configured to allow those yet.**
 
 ## Configuring Reaction Emojis -
 * To configure rolenames, head once again to the ``rrconfig.json`` file. The second group of settings, role1emoji-role3emoji, are the settings for the emojis. Collect the emoji names (select the emoji in your message bar, then put a ``\`` in front of it, and when you hit enter the emoji name/id for custom emojis will appear to be copied), and put them in the quotation marks. If you are only using default emojis, you can just copy and paste them in from the internet. I personally recommend [iEmoji](https://www.iemoji.com) for copy/paste default emojis.
