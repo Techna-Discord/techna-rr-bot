@@ -1,5 +1,6 @@
 # Reaction Roles - Configuring The Bot
  * [⬅️ Back to home menu](./../README.md)
+
 Configuring the bot is rather easy, via the [rrconfig.json file](./../rrconfig.json). See the steps below to get help regarding that -
 
 ## Configuring Rolenames -
