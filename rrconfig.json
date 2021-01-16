@@ -10,5 +10,5 @@
     "embedColor": "#fffffe",
     "embedTitle": "Role Menu",
     "embedDescription": "React below to receive roles",
-    "rrchannel": "<put channel ID here"
+    "rrChannel": "<put channel ID here"
 }
